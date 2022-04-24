@@ -69,6 +69,7 @@ namespace Calculs
                             Console.WriteLine("Faux : " + val1 + " x " + val2 + " = " + solution);
                         }
                     }
+                    UnhandledExceptionEventArgs ligne de coode qui sert a rien
                 }
             }
         }
